@@ -1,4 +1,9 @@
 # CRUD Operations (Create, Read, Edit and Delete Functionality)
 This is ASP.Net C Sharp Web App
 
-Developed by @adnanattar
+👋 Hi, I’m @adnanattar
+👀 I’m interested in - Android Development
+🌱 I’m currently learning - B.Tech in CSE
+💞️ I’m looking to collaborate on ...
+📫 How to reach me - By using mail androtechbuddy@gmail.com
+🚀 Know more - http://androtechbuddy.com
