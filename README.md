@@ -3,7 +3,7 @@ This is ASP.Net C Sharp Web App
 
 👋 Hi, I’m @adnanattar
 
-👀 I’m interested in - Android Development
+👀 I’m interested in - Android App Development, Blockchain Systems and Web Technologies
 
 🌱 I’m currently learning - B.Tech in CSE
 
